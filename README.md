@@ -554,6 +554,7 @@ Availability is often quantified by uptime (or downtime) as a percentage of time
 
 If a service consists of multiple components prone to failure, the service's overall availability depends on whether the components are in sequence or in parallel.
 
+Refer definition of sequence and parallel here: https://www.eventhelix.com/RealtimeMantra/FaultHandling/system_reliability_availability.htm
 ###### In sequence
 
 Overall availability decreases when two components with availability < 100% are in sequence:
