@@ -393,6 +393,8 @@ First, you'll need a basic understanding of common principles, learning about wh
     * [Databases](http://www.lecloud.net/post/7994751381/scalability-for-dummies-part-2-database)
     * [Caches](http://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache)
     * [Asynchronism](http://www.lecloud.net/post/9699762917/scalability-for-dummies-part-4-asynchronism)
+    
+    My notes: https://docs.google.com/document/d/1-yfjvBU5XCM9_50tCabeNZAmUxyBv3ED4KKzM_7qE0s/edit
 
 ### Next steps
 
