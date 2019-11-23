@@ -1,0 +1,7 @@
+Consider that you have a getLatestOrder service. This service is located inside your company network. Now, we don't want to expose the exact location of the server,the URL path or IP to the client to access this service. We would send the request to get the last order to the API Gateway which would then route it to the right microservice. Thus, providing a layer of abstraction.
+
+Some more reasons why we need an API Gateway: 
+
+https://github.com/Netflix/zuul/wiki#why-did-we-build-zuul
+
+Side-note: API Gateway is different than a load balancer. Load balancer distributes the traffic to different servers while API Gateway routes the request to the correct microservice (and offers many other capabilities)
